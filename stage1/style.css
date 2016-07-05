@@ -1,0 +1,123 @@
+.box1{
+  height: 50px;
+  background-color: blue;
+}
+
+.box2{
+  height: 1100px;
+  background-color: grey;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.box3{
+  width: 80%;
+  height: 50px;
+  background-color: navy;
+  border: 20px black;
+  margin: 0 auto;
+}
+
+.box4{
+  width: 48px;
+  height: 24px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.box5{
+  width: 299px;
+  height: 69px;
+  background-color: white;
+  margin-bottom: 24px;
+  margin: 0 auto;
+  padding-bottom: 20px grey;
+
+}
+
+
+.box6{
+  width: 299px;
+  height: 69px;
+  background-color: white;
+  margin-bottom:: 24px;
+  margin: 0 auto;
+
+}
+
+
+.box7{
+  width: 299px;
+  height: 69px;
+  background-color: white;
+  margin: 0 auto;
+
+
+}
+
+.box8{
+  height: 191px;
+  background-color: blue;
+  margin: 0 auto;
+}
+
+.box9{
+  height: 1100px;
+  background-color: grey;
+}
+
+.box10{
+  width: 430px;
+  height: 215px;
+  background-color: white;
+  padding-top: 45px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+.box11{
+  width: 430px;
+  height: 215px;
+  background-color: white;
+  color: black;
+}
+
+
+.box12{
+  width: 430px;
+  height: 215px;
+  background-color: white;
+  color: black;
+}
+
+
+.box13{
+  width: 430px;
+  height: 215px;
+  background-color: white;
+  color: black;
+}
+
+
+.box14{
+  width: 430px;
+  height: 215px;
+  background-color: white;
+  color: black;
+}
+
+
+.box15{
+  width: 430px;
+  height: 215px;
+  background-color: white;
+}
+
+.box16{
+  width: 453px;
+  height; 167px;
+  background-color: light blue;
+  color: black;
+}
